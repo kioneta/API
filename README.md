@@ -1,5 +1,5 @@
 # API
-My experience with VK API for my group.
+# VK API
 
 The code you can find in file "main", Please pay attention to the line 105 befor use it.
 
