@@ -3,7 +3,7 @@
 
 The code you can find in file "main", Please pay attention to the line 105 befor use it.
 
-The code help to collect information from group wall for statistical post at the end of month, where people can find information about the most active board game organizers of this month.
+The code help to collect information from group wall for statistical post at the end of month (place, autors and date), where people can find information about the most active board game organizers of this month.
 
 The post looks the following way (personal information is hidden):
 
